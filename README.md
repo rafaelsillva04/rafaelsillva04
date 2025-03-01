@@ -1,5 +1,5 @@
 <!-- Rafael Silva - Desenvolvedor Full Stack -->
-<h1 align="left">👨‍💻 Rafael Silva</h1>
+<h1 align="left">🧑🏽‍💻 Rafael Silva</h1>
 <h3 align="left">Desenvolvedor Full Stack</h3>
 <p align="left">
   Natural de São João del Rei, Minas Gerais, sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor Full Stack, criando soluções completas e eficientes. Meu objetivo é transformar ideias em realidade por meio da programação, sempre buscando inovação e aprendizado contínuo.
