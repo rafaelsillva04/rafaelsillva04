@@ -2,7 +2,8 @@
 <h1 align="left">🧑🏽‍💻 Rafael Silva</h1>
 <h3 align="left">Desenvolvedor Full Stack</h3>
 <p align="left">
-  Natural de São João del Rei, Minas Gerais, sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor Full Stack, criando soluções completas e eficientes. Meu objetivo é transformar ideias em realidade por meio da programação, sempre buscando inovação e aprendizado contínuo.
+  Sou natural de São João del Rei, Minas Gerais, e apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso Análise e Desenvolvimento de Sistemas e foco no aprimoramento das minhas habilidades como desenvolvedor Full Stack, criando soluções completas e eficientes. Meu objetivo é transformar ideias em realidade por meio da programação, sempre   
+  buscando inovação e aprendizado contínuo. Além disso, estou em busca da minha primeira oportunidade na área para aplicar e expandir meus conhecimentos.
   <br><br>
   📌 Acesse meu portfólio em: 
   <a href="https://rafaelsillva04.github.io/portfolio-web/" target="_blank">rafaelsillva04.github.io/portfolio-web/</a>
