@@ -12,7 +12,7 @@
 <!-- Tecnologias -->
 <h2 align="left">🚀 Tecnologias</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="40" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" height="40" alt="Tecnologias"/>
 </p>
 
 <!-- Estatísticas do GitHub -->
