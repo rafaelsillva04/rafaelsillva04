@@ -2,8 +2,7 @@
 <h1 align="left">🧑🏽‍💻 Rafael Silva</h1>
 <h3 align="left">Desenvolvedor Full Stack</h3>
 <p align="left">
-  Sou natural de São João del Rei, Minas Gerais, e apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso Análise e Desenvolvimento de Sistemas e foco no aprimoramento das minhas habilidades como desenvolvedor Full Stack, criando soluções completas e eficientes. Meu objetivo é transformar ideias em realidade por meio da programação, sempre   
-  buscando inovação e aprendizado contínuo. Além disso, estou em busca da minha primeira oportunidade na área para aplicar e expandir meus conhecimentos.
+  Sou natural de São João del Rei, Minas Gerais, e apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou focado no aprimoramento das minhas habilidades como desenvolvedor Full Stack, criando soluções completas e eficientes. Meu objetivo é transformar ideias em realidade por meio da programação, sempre buscando inovação e aprendizado contínuo. Além disso, estou em transição de carreira e em busca da minha primeira oportunidade na área para aplicar e expandir meus conhecimentos.
   <br><br>
   📌 Acesse meu portfólio em: 
   <a href="https://rafaelsillva04.github.io/portfolio-web/" target="_blank">rafaelsillva04.github.io/portfolio-web/</a>
@@ -18,8 +17,8 @@
 <!-- Estatísticas do GitHub -->
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsillva04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsillva04&theme=tokyonight&layout=compact" height="180" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsillva04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub" height="180" alt="Minhas Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsillva04&theme=tokyonight&layout=compact&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" height="180" alt="Linguagens Mais Usadas"/>
 </p>
 
 <!-- Contato -->
