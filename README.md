@@ -20,8 +20,9 @@
 
 <!-- Contato -->
 <h2 align="center">📩 Contato</h2>
+<br>
 <p align="center">
-  <a href="mailto:rafa095016@gmail.com">
+  <a href="mailto:rafa095016@gmail.com?target=_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   &nbsp;&nbsp;
