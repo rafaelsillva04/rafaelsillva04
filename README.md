@@ -3,12 +3,15 @@
 <h3 align="left">Desenvolvedor Full Stack</h3>
 <p align="left">
   Natural de São João del Rei, Minas Gerais, sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor Full Stack, criando soluções completas e eficientes. Meu objetivo é transformar ideias em realidade por meio da programação, sempre buscando inovação e aprendizado contínuo.
+  <br><br>
+  📌 Acesse meu portfólio em: 
+  <a href="https://rafaelsillva04.github.io/portfolio-web/" target="_blank">rafaelsillva04.github.io/portfolio-web/</a>
 </p>
 
 <!-- Tecnologias -->
 <h2 align="left">🚀 Tecnologias</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="40" alt="Tecnologias"/
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="40" alt="Tecnologias"/>
 </p>
 
 <!-- Estatísticas do GitHub -->
@@ -19,15 +22,13 @@
 </p>
 
 <!-- Contato -->
-<h2 align="center">📩 Contato</h2>
-<br>
-<p align="center">
-  <a href="mailto:rafa095016@gmail.com?target=_blank">
+<h2 align="left">📩 Contato</h2>
+<p align="left">
+  <a href="mailto:rafa095016@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rafaelsiilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafaelsiilva/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
