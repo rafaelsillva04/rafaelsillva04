@@ -17,8 +17,9 @@
 <!-- Estatísticas do GitHub -->
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelsillva04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub" height="180" alt="Minhas Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsillva04&theme=tokyonight&layout=compact&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas&cache_seconds=86400" height="180" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelsillva04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub" height="170" alt="Minhas Estatísticas do GitHub"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsillva04&theme=tokyonight&layout=compact&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas&cache_seconds=86400" height="170" alt="Linguagens Mais Usadas"/>
 </p>
 
 
